@@ -1,0 +1,19 @@
+/*
+* @Author: Administrator
+* @Date:   2017-07-15 21:33:59
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-07-15 21:38:29
+*/
+
+
+
+h1 {
+	color: red;
+}
+p {
+	width: 100px;
+	height: 100px;
+	font-size: 12px;
+	color: #000;
+	background-color: #ccc;
+}
